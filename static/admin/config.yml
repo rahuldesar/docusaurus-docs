@@ -1,6 +1,6 @@
 backend:
   name: github
-  branch: master
+  branch: main
   repo: https://github.com/rahuldesar/docusaurus-docs
 
 # These lines should *not* be indented
